@@ -3,6 +3,7 @@
 
 
 # topics of interest
+- DB
 - NLP
 - GIS
 - visualization
