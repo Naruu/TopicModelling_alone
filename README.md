@@ -1,25 +1,3 @@
-# ME
-- 15학번 수학과, 컴퓨터 공학 복수전공
-
-
-# topics of interest
-- DB
-- NLP
-- GIS
-- visualization
-- 공공데이터
-- hadoop
-
-
-# Experience
--Summer internship(2 months) in startup : Video Platform start-up : Data Analytics team
-
--python : pandas, jupyternotebook  
--postgreSQL  
--MongoDB, kibana ....?
-
-
-
 # TopicModelling_alone
 Topic modelling with LDA
 
