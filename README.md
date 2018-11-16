@@ -14,8 +14,8 @@
 # Experience
 -Summer internship(2 months) in startup : Video Platform start-up : Data Analytics team
 
--python : pandas, jupyternotebook
--postgreSQL
+-python : pandas, jupyternotebook  
+-postgreSQL  
 -MongoDB, kibana ....?
 
 
